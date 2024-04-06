@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "name": "root",
+            "path": "."
+        },
+    ],
+    "settings": {
+        "jupyter.notebookFileRoot": "${workspaceFolder}"
+    },
+}
