@@ -1,6 +1,8 @@
-# FrontEnd
+# Todo
 
-TODO design a front end for generating bearings and gears
+## Gear / Bearing Front End
+
+Look at some form of jupyter notebook or GUI for generating bearings and gears
 
   * use python flask
   * quasar for the front end (optionally nuxt)
